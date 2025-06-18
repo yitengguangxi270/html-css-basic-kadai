@@ -1,8 +1,5 @@
 html{
   font-family: "Arial", "Meiryo", sans-serif;
-}
-
-h1 {
   font-size: 20px;
 }
 
@@ -10,9 +7,6 @@ h1 {
   color: skyblue;
 }
 .pink {
-  color: pink;
-}
-.ROFILE {
   color:rgb(255, 192, 203);
 }
 
@@ -20,7 +14,7 @@ h1
  {
   font-size: 2rem;
   font-family: "Josefin Sans", sans-serif;
-  letter-spacing: 2.4rem;
+  letter-spacing: 1.2em;
   border-bottom: 3px solid rgb(115, 115, 114);
   text-shadow: black 0.1em 0.1em 0.2em;
 }
@@ -29,6 +23,6 @@ body {
   text-align: center;
   }
 
-#basic {
+#basic > p{
   font-weight: bold;
  }
